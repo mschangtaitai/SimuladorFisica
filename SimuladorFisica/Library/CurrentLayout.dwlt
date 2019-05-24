@@ -111,10 +111,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 727
-  m_MinSize: {x: 681, y: 498}
-  m_MaxSize: {x: 14004, y: 14048}
+  m_MinSize: {x: 679, y: 498}
+  m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
-  controlID: 77
+  controlID: 4882
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 78
+  controlID: 4883
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 79
+  controlID: 4884
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,8 +264,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 727
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -303,9 +303,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -442.89233, y: 88.635414, z: -241.27849}
+    m_Target: {x: -314.38007, y: 62.006035, z: 49.71314}
     speed: 2
-    m_Value: {x: -442.89233, y: 88.635414, z: -241.27849}
+    m_Value: {x: -314.38007, y: 62.006035, z: 49.71314}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,19 +333,19 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.083904, y: 0.012828029, z: -0.0010809669, w: 0.9963907}
+    m_Target: {x: 0.120682046, y: -0.70059043, z: 0.1220716, w: 0.6926092}
     speed: 2
-    m_Value: {x: 0.083904, y: 0.012828029, z: -0.0010809669, w: 0.9963907}
+    m_Value: {x: 0.120682046, y: -0.70059043, z: 0.1220716, w: 0.6926092}
   m_Size:
-    m_Target: 4.0223246
+    m_Target: 0.74082077
     speed: 2
-    m_Value: 4.0223246
+    m_Value: 0.74082077
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.38845792, y: 0.013558233, z: -0.005715822, w: -0.921349}
+  m_LastSceneViewRotation: {x: 0.0813289, y: -0.16135958, z: 0.013343303, w: 0.9834484}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -380,9 +380,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 30180000
-      m_LastClickedID: 6192
-      m_ExpandedIDs: 50c2ffffd4fbffff74180000a6180000b6180000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 8a9affffa89affff929cffff72f6ffff90f6ffff9af6ffff24f8ffff42f8ffff2efaffffd4fbffffe43a00001a3b00000a400000404000005c400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -550,20 +550,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SampleScenes/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 63
   m_LastFolders:
-  - Assets/SampleScenes/Prefabs
+  - Assets
   m_LastFoldersGridSize: 63
   m_LastProjectPath: /Users/michaelchan/Desktop/SimuladorFisica/SimuladorFisica
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 48.996094}
-    m_SelectedIDs: 1e150000
-    m_LastClickedID: 5406
-    m_ExpandedIDs: 00000000440b0000da0d0000401100003e1400005016000000ca9a3b
+    scrollPos: {x: 0, y: 56.000366}
+    m_SelectedIDs: 440b0000
+    m_LastClickedID: 2884
+    m_ExpandedIDs: 00000000440b0000a20b0000dc0d00004a1100005c16000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -591,7 +591,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000440b0000da0d00003a160000
+    m_ExpandedIDs: 00000000440b0000a20b0000dc0d00004a1100005c16000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ec72000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
